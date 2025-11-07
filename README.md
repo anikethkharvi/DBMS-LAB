@@ -1,1 +1,1 @@
-# DBMD-LAB
+# DBMS-LAB
